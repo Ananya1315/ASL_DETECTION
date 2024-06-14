@@ -2,23 +2,25 @@
   <h1 style="font-size: 36px; font-weight: bold;">ASL DETECTION</h1>
 </div>
 
+<!-- Description -->
+<div>
+<h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35">Project Description</h2>
+<a>ASL Detection is a project that uses Python, OpenCV, MediaPipe, and scikit-learn to detect and interpret American Sign Language (ASL) gestures. The aim is to facilitate communication for individuals with hearing impairments by translating ASL gestures into text.</a>
+</div>
 
 <!-- Tech stack -->
 <div>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" />Tech Stack</h2>
-</div>
-
-<div>
 <a><img src="https://img.shields.io/badge/Python-E34F26.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
 </div>
 
 <!-- Prerequisites -->
 <div>
 <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35">Prerequisites</h2>
+<a>OpenCV</a><br>
+<a>MediaPipe</a><br>
+<a></a>scikit-learn</a>
 </div>
-OpenCV
-MediaPipe
-scikit-learn
 
 <!-- Screenshots -->
   <div>
