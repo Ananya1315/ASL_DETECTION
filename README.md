@@ -37,7 +37,7 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
   <a href="https://github.com/Ananya1315">Ananya Samudrala</a><br>
   <a href="https://github.com/d1vyadharsh1n1">Divyadharshini R</a><br>
-  <a>Mahalakshmi Neeharika</a><br>
+  <a href="https://github.com/neeharika-kuralla">Mahalakshmi Neeharika</a><br>
   <a>Aishani Basu</a><br>
   <a>Dharini Manimaran</a><br>
   <a>Harshitha Mandala</a>
